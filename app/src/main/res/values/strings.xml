@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Siswa_CRUD_API</string>
+    <string name="id">ID = %1$s </string>
+    <string name="nama">Nama = %1$s </string>
+    <string name="jeniskelamin">JenisKelamin = %1$s </string>
+    <string name="alamat">Alamat = %1$s </string>
+</resources>
